@@ -3,7 +3,7 @@ Loops :
 
 1 - Do while loop
 2 - Do for loop
-3 - Do do while loop
+3 - Do do while loop -- done .
 
 Create one if / else statment
 
