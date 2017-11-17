@@ -1,3 +1,4 @@
+just to practice, do one of those and ask for merge  
 Loops :
 
 1 - Do while loop
@@ -11,3 +12,5 @@ Arrays :
 1 - string array
 2 - numbers array
 3 - charactors array
+
+and go to there 
