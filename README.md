@@ -3,10 +3,10 @@
 [logo]: https://thedailyshep.com/wp-content/uploads/2017/10/pirate-47705_1280.png "Pirates Team"
 
 # Pirates Team 
-Git interdiction tutorial for the Pirates team :)
+Git introduction tutorial for the Pirates team :)
 
-## Interdiction
-In this repository i will give an interduction about what we are going to work with and how we do it.
+## Introduction
+In this repository i will give an introduction about what we are going to work with and how we do it.
 
 ## Forks :
 After joining the pirates team you will see on the top right something called fork.
